@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">
   Hey there! Welcome to Abhishek's profile!
-  <img src="https://raw.githubusercontent.com/abhishek-iitmadras/abhishek-iitmadras/main/icons/wave.gif" width="30" height="30">
+  <img src="https://raw.githubusercontent.com/abhishek-iitmadras/abhishek-iitmadras/main/icon/wave.gif" width="30" height="30">
 </h3>
 
 
