@@ -48,13 +48,18 @@ Here are some ideas to get you started:
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 -->
 
-<div align=center>
-  <h2>Langs And Tools</h2>
-  <h3>Programing Langs</h3>
-    <img src="https://skillicons.dev/icons?i=c,cpp,python">
-  <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,aws">
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <h3>Programming Langs</h3>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python" alt="Programming Languages">
+    </td>
+    <td align="center">
+      <h3>Tools</h3>
+      <img src="https://skillicons.dev/icons?i=github,git,vscode,aws" alt="Tools">
+    </td>
+  </tr>
+</table>
 
 <!--
 <details>
