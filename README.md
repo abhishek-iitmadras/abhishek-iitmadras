@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## 👤 About Me <h3 align="right"> ![](https://komarev.com/ghpvc/?username=abhishek-iitmadras&color=007bff&label=Profile+Views&style=for-the-badge) </h3>
 <div id="top"></div>
+
+
 
 <h3 align="center">
   Hey there! Welcome to Abhishek's profile!
@@ -26,8 +28,7 @@ Here are some ideas to get you started:
 
 <!--- https://readme-typing-svg.herokuapp.com --->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=2500&color=007bff&center=true&vCenter=true&width=500&lines=Software+Engineer;HPC+Research+Scientist;Framework+Optimization+Engineer)](https://git.io/typing-svg)
- 
-![](https://komarev.com/ghpvc/?username=abhishek-iitmadras&color=007bff&label=Profile+Views&style=for-the-badge)
+
  
 <!--
 </div>
@@ -36,17 +37,13 @@ Here are some ideas to get you started:
 **I'm Abhishek Kumar** - I'm a framework engineer. I'm interested in development, optimisation, and building thriving online communities. I work on random projects in my free time, a lot involving LLM and generative AI project.
 -->
 
+## 🚀 Career Highlights
+
+See all experiences at [Linkedin](https://www.linkedin.com/in/abhishekkumar1105/details/experience/)
 <div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;'>
   <a href="https://linkedin.com/in/abhishekkumar1105" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-
-<!--
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
--->
 
 <table>
   <tr>
@@ -61,24 +58,12 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<!--
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=abhishek-iitmadras&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-iitmadras&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
--->
+
 
 ## ⚡ Git Stats ⚡
 <div>
   <a href="https://github.com/abhishek-iitmadras">
+  <img align="centre" alt="Github Stats" src="https://github-contribution-stats.vercel.app/api/?username=abhishek-iitmadras" height="100%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-iitmadras&theme=algolia">
-  <img height="140em" src="https://streak-stats.demolab.com?user=abhishek-iitmadras&theme=algolia" alt="GitHub Streak" />  
-  <img loading="lazy" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-iitmadras&theme=algolia"/>
-</div>
-    
-## 👑 Trophy 👑  
-<div>    
-<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=abhishek-iitmadras&theme=algolia&column=-1&rank=-?"></a>
+  <img loading="lazy" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-iitmadras&theme=algolia" alt="GitHub Stats" />  
 </div>
