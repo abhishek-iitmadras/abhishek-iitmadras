@@ -63,7 +63,7 @@ See all experiences at [Linkedin](https://www.linkedin.com/in/abhishekkumar1105/
 ## ⚡ Git Stats ⚡
 <div>
   <a href="https://github.com/abhishek-iitmadras">
-  <img align="centre" alt="Github Stats" src="https://github-contribution-stats.vercel.app/api/?username=abhishek-iitmadras" height="100%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-iitmadras&theme=algolia">
-  <img loading="lazy" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-iitmadras&theme=algolia" alt="GitHub Stats" />  
+    <img align="centre" alt="Github Stats" src="https://github-contribution-stats.vercel.app/api/?username=abhishek-iitmadras" height="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-iitmadras&theme=algolia">
+    <img loading="lazy" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-iitmadras&theme=algolia" alt="GitHub Stats" />  
 </div>
