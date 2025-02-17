@@ -66,9 +66,10 @@ See all experiences at [Linkedin](https://www.linkedin.com/in/abhishekkumar1105/
     <img align="centre" alt="Github Stats" src="https://github-contribution-stats.vercel.app/api/?username=abhishek-iitmadras" height="100%" /> 
 </div>
 
+<!--
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-iitmadras&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-<!--
+
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-iitmadras&theme=algolia">
     <img loading="lazy" height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-iitmadras&theme=algolia" alt="GitHub Stats" /> 
 -->
